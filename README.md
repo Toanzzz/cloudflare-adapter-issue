@@ -1,3 +1,3 @@
 # Cloudflare Adapter Issue
 
-WIP
+https://github.com/sveltejs/kit/pull/10214
